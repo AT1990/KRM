@@ -1,0 +1,132 @@
+Software Testing
+----------------
+
+Shift Left Approach
+
+number - prime - Hello, Bye
+class()
+{
+Fun1 - prime (number) --> True/False
+
+Func2 - output(Boolean)-->
+	if True: print Hello, Else print Bye
+
+}
+
+
+Feature - Sign Up
+
+Feature - Login
+
+
+
+7+ --> 10, <7 --> 0
+
+----------------0---------700-----10000
+
+
+
+Old Programs
+{ cls
+
+FE - logic -- values
+}
+
+API
+values -- Databse
+}
+
+https://reqres.in/
+
+API components
+URI - Uniform Resource Identifier
+HTTP methods -- GET/PUT/POST/DETELE
+
+Response:
+Body
+Status
+
+Swagger - API Documentation -- 
+
+{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "James",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+PUT -- It will update Everything
+PATCH -- It will only update the values which are passed, rest are retained
+
+Test Case:
+0 . GET -- to get all possible values
+1. POST -- 201 - GET - Validation of all details + Count
+	1.1 POST -- Details
+	1.2 GET -- Details
+2. PATCH 
+	2.1 Patch success
+	2.2 GET - validate --> 
+3. PUT
+	3.1 PUT success
+	3.2 GET - validate --> 
+4. Delete 
+5. Response Time Of an API
+
+
+FAIL FAST
+Collection
+1. Share
+2. Maintenance
+3. 
+
+FE Automation Setup
+1. Install Java
+2. Install Eclipse
+3. Download Selenium Clinet Library - Java
+4. Download ChromeDriver/ Browser Driver
+5. New Package in side src
+6. new class in packaga
+7. First steps for a selenium program
+
+Chrome 
+
+https://github.com/AT1990/KRM
+
+element identify --> 
+8 ways
+1. idenitfy by ID --> directly
+2. by class
+3. By.className
+4. By.tagname
+5. By.cssSelector -- Fastest (Mostly)
+6. By.xpath           -- IMP
+7. By.linkTest
+8. By.partialLinkTest
+
+xpath
+//tagName[@attribute='']
+
+//textarea[@id='APjFqb']
+// class --3
+
+//*[@id="APjFqb"]
+
+
+// Execrcies
+1. Installation - Fresh
+2. https://www.nseindia.com/market-data/live-equity-market?symbol=NIFTY%2050
+3. Xapth , css, id, class
+4. How can i count number of links on page
+
+
+
+
+
+
+
+
